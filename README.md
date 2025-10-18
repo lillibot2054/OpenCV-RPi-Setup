@@ -5,7 +5,7 @@ Perfect! You already have a detailed setup guide. I can help you **convert this 
 
 ---
 
-# **OpenCV Setup on Raspberry Pi **
+# OpenCV Setup on Raspberry Pi 
 
 Raspberry Pi leverages its computational capabilities and libraries like **OpenCV** to detect and recognize human faces, etc. It's an affordable and powerful platform for applications such as **security systems, access control, and attendance tracking**.
 
