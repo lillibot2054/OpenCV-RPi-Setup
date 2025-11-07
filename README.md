@@ -53,7 +53,7 @@ sudo systemctl restart dphys-swapfile
 
 ### **3. Clone OpenCV Repository**
 
-Download the OpenCV zip file from [here]([https://drive.google.com/drive/folders/15bBAxoo3BQorAz2CX8p6RiTv2jzRqhNv?usp=drive_link](https://drive.google.com/drive/folders/1VR5P4Bh-EF-D-jS5qVhA7rvugOdsPYyL?usp=sharing)) and unzip it.
+Download the OpenCV zip file from [here]([https://drive.google.com/drive/folders/1VR5P4Bh-EF-D-jS5qVhA7rvugOdsPYyL?usp=sharing) and unzip it.
 
 ---
 
